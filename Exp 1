@@ -1,0 +1,46 @@
+Literature Review on Whatsapp group chat analysis 
+
+As a demo Survey analysis on the usage and Impact of WhatsApp Messenger [1]: Various Studies and analysis 
+has been done on the usage and impact of WhatsApp. Some 
+of these studies are for finding the impact of WhatsApp on 
+the students and some are based on for the general public 
+in a local region.
+
+1.Ahmed, I., Fiaz, T., “Mobile phone to youngsters: Necessity or 
+addiction”, African Journal of Business Management Vol.5 (32), 
+pp. 12512-12519, Aijaz, K. (2011).
+Content Analysis of WhatsApp conversation [2]: An 
+analytical study to evaluate the Effectiveness of WhatsApp 
+Application in Karachi. The Study will be an important 
+research work for exploring the possibilities of emergence 
+of WhatsApp as the leading mobile messaging application 
+in Pakistan
+
+2.Aharony, N., T., G., The Importance of the WhatsApp Family 
+Group: An Exploratory Analysis. “Aslib Journal of Information 
+Management, Vol. 68, Issue 2, pp.1-37” (2016).
+WhatsApp Group Data Analysis with R [3]: The dataset 
+of WhatsApp group chat used for analysis is of 1 year(may, 
+2015-may,2016) which consists of 5,5563 records in total 
+and comprises of certain characteristics that define how 
+much a particular person is using WhatsApp chat group, 
+such as the years of usage, duration of usage in a day, the 
+response levels, type of messages posted by each 
+individual in the group (Smiley, Text, Multitude), which 
+age group people are more active and so on
+
+3.Access Data Corporation. FTK Imager, 2013. Available at 
+http://www.accessdata.com/support/product-downloads.
+
+Forensic analysis of WhatsApp Messenger [4]: 
+WhatsApp provides its users with various forms of 
+communications, namely user-to-user communications, 
+broadcast messages, and group chats. When 
+communicating, users may exchange plain text messages, 
+as well as multimedia files (containing images, audio, and 
+video), contact cards, and geolocation information. Each 
+user is associated with its profile, set of information that 
+includes his/her WhatsApp name, status line, and avatar (a 
+graphic file, typically a picture)
+
+All these studies presented short reviews except for P. Chauhan, N. Sharma, and G. Sikka, “The emergence of social media data and sentiment analysis in election prediction”. Besides, all the aforementioned studies performed Adhoc literature surveys, and none of them followed a detailed systematic protocol. This study is the first systematic mapping study that mainly focused on election prediction on Twitter and thoroughly overviewed and analyzed the selected 98 primary studies.
